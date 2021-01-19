@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "platzy-store": {
+      "hosting": {
+        "platzy-store": [
+          "platzy-store"
+        ]
+      }
+    }
+  }
+}
